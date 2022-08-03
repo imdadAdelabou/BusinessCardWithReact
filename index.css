@@ -1,0 +1,122 @@
+
+@import url('https://rsms.me/inter/inter.css');
+
+html, body {
+    margin: 0;
+    padding: 10px;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #23252C;
+}
+
+.block {
+    width: 317px;
+    border-radius: 10px;
+    background-color: #1A1B21;
+    margin: 0 auto;
+}
+
+.profilePic {
+    object-fit: cover;
+}
+
+.name-style {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30.26px;
+    color: white;
+    margin: 21px 0 6.19px 0;
+    text-align: center;
+}
+
+.info-part {
+    
+
+}
+
+.role {
+    font-weight: 400;
+    margin: 0;
+    font-size: 12.8px;
+    line-height: 15.49px;
+    text-align: center;
+    color: #F3BF99;
+    margin: 0 0 8.81px 0;
+}
+
+.email {
+    font-weight: 400;
+    font-size: 10.24px;
+    margin: 0 0 15px 0;
+    line-height: 15.36px;
+    text-align: center;
+    color: #F5F5F5;
+}
+
+.btn {
+    width: 100%;
+    border: none;
+    border-radius: 6px;
+    padding: 9px 13px 9px 11px;
+    color: #374151;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    cursor: pointer;
+}
+
+.m9 {
+    margin-left: 9.6px;
+}
+
+.flex {
+    display: flex;
+    margin: 0 35px 33px 35px;
+}
+
+.ml17 {
+    margin-left: 17.0px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F5F5F5;
+    margin: 0 0 5px 0;
+}
+
+.content {
+    margin: 0;
+    color: #DCDCDC;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 15.36px;
+}
+
+.mx {
+    margin: 0 34px 0 36px;
+}
+
+.m27 {
+    margin-bottom: 20px;
+}
+
+.m24 {
+    margin-bottom: 24px;
+}
+
+.card {
+    background-color: #918E9B;
+    border-radius: 6px;
+}
+
+.footer {
+    background-color: #161619;
+    padding: 19.5px 72.5px 19.5px 73px;
+    border-radius: 0 0 10px 10px;
+    display: flex;
+    justify-content: space-between;
+}
